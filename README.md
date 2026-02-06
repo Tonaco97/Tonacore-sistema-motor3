@@ -1,4 +1,4 @@
-﻿# Blackpoint Resilience Aggregator
+﻿# Guilherme Tonaco Cybersecurity Aggregator
 
 High-performance API composition microservice engineered for 2k req/s throughput with 350ms p99 stability.
 
